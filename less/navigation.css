@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 40%;
+  padding: 10px 2%;
+  float: right;
+  width: 40%;
+}
+.nav a {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
